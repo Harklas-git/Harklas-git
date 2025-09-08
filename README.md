@@ -1,16 +1,27 @@
 ## Hi there 👋
+# Hi, I'm Olasunkanmi Akinyemi 👋  
 
-<!--
-**Harklas-git/Harklas-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Data Science | MSc in Mathematical Sciences | BSc in Statistics 
+💻 Aspiring Data Engineer & Data Scientist | Skilled in Python, SQL, Power BI, Git, SPSS, Excel, R, and Data Visualization  
+📊 Passionate about building scalable data pipelines and turning raw data into actionable insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL, R, SPSS, Excll
+- **Data Tools:** Pandas, Numpy, Matplotlib, Seaborn, Power BI  
+- **Data Engineering Tools (learning):** Airflow, Spark, AWS  
+- **Other:** Git/GitHub, Jupyter, Docker (in progress)  
+
+---
+
+## 📂 Featured Projects
+- 🚑 [NHS Patient Wait Times Analysis](https://github.com/yourusername/nhs-wait-times-analysis) – Healthcare data analysis in Python  
+- 📈 [Stock Market Data Pipeline](https://github.com/yourusername/stock-data-pipeline) – ETL project with Python + SQL  
+- 🏠 [UK Housing Price Dashboard](https://github.com/yourusername/housing-price-analysis) – Power BI & Python integration  
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](www.linkedin.com/in/olasunkanmi-akinyemi-0382027b)  
+
